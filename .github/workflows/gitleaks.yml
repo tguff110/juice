@@ -5,8 +5,7 @@ on:
       
   push:
     branches: 
-      
-jobs:
+      jobs:
   gitleaks:
     runs-on: ubuntu-latest
     steps:
